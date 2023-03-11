@@ -1,0 +1,22 @@
+/* table.my-table {
+  border: none;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+thead.my-table.headers tr th {
+  border: white solid 3px;
+  background-color: darkblue;
+  color: white;
+  height: 25px;
+}
+
+tbody.my-table.body tr td {
+  border: black solid 1px;
+  border-left: none;
+  height: 25px;
+} */
+
+.example-spacer {
+  flex: 1 1 auto;
+}
